@@ -47,6 +47,13 @@
   box-sizing: border-box;
 }
 
+.psms-green {
+  background: #427a68 !important;
+}
+.psms-blue {
+  background: #393e66 !important;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
